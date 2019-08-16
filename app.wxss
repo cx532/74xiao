@@ -3,8 +3,8 @@ image{
 }
 @font-face {
   font-family: 'icomoon';
-  src:  url('static/iconmoon/fonts/icomoon.eot?84ovys');
-  src:  url('static/iconmoon/fonts/icomoon.eot?84ovys#iefix') format('embedded-opentype'),
+  src:  url('https://cx532.github.io/xiaochengxu/fonts/icomoon.eot?84ovys');
+  src:  url('https://cx532.github.io/xiaochengxu/fonts/icomoon.eot?84ovys#iefix') format('embedded-opentype'),
     url('static/iconmoon/fonts/icomoon.ttf?84ovys') format('truetype'),
     url('static/iconmoon/fonts/icomoon.woff?84ovys') format('woff'),
     url('static/iconmoon/fonts/icomoon.svg?84ovys#icomoon') format('svg');
